@@ -1,0 +1,11 @@
+.errorr {
+  background-color: red;
+}
+.mainn {
+  background-color: bisque;
+  width: fit-content;
+  padding-inline-end: 20px;
+  padding-inline-start: 20px;
+  padding-block-end: 20px;
+  padding-block-start: 10px;
+}
